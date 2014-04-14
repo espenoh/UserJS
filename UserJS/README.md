@@ -1,4 +1,4 @@
-Twitter icon
+twitter_icon
 ------------
 Adds the number of new tweets to the favicon of any open twitter.com tab. Note: Requires a remote PHP script for generation of the actual favicon.
 
